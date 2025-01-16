@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m Bethany Astor, an MSc Statistics student at Imperial College London. I graduated with a joint degree in Mathematics and Medieval History from the University of St Andrews then I began my master’s-level education in statistics at Duke University in North Carolina before returning to the UK.
+
+I’m passionate about applying technical statistical models to real-world data and turning those findings into practical solutions to complex problems. Having enjoyed my time in a summer institute in biostatistics, I have an interest in biostats and healthcare, but I am still excited to see statistics and data science applied to a variety of fields. 
+
